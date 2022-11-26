@@ -3,3 +3,46 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+
+}
+
+#container {
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    grid-template-areas: 
+        "primary-nav secondary-nav"
+        "primary-nav content-container"
+        "primary-nav footer";
+}
+
+#primary-nav {
+    grid-area: primary-nav;
+    background-color: #1992d4;
+    color: white;
+}
+
+#logo {
+    
+}
+
+#secondary-nav {
+    grid-area: secondary-nav;
+}
+
+#content-container {
+    grid-area: content-container;
+}
+
+#main-content {
+
+}
+
+#secondary-content {
+
+}
+
+#footer {
+    grid-area: footer;
+}
