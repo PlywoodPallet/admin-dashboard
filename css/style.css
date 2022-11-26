@@ -74,12 +74,25 @@ body {
     
 }
 
-#main-content {
-
+#your-projects {
+    grid-area: "your-projects";
 }
 
-#secondary-content {
+#content-sidebar {
+    grid-area: "content-sidebar";
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-template-areas: 
+        "announcements"
+        "trending";
+}
 
+#announcements {
+    grid-area: "announcements";
+}
+
+#trending {
+    grid-area: "trending";
 }
 
 #footer {
