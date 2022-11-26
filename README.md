@@ -7,6 +7,7 @@ Requirements
 TODO
 - how to make the page minimum one viewport height? I'd like to fill the window even if content doesn't expand the page to fit
 - For menu, how to make a large area clickable (text and some padding around it?)
+- accessibility - do link images need alt text if the menu text is nearby?
 
 Project History
 - Researched CSS naming conventions https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/
