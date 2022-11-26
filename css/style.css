@@ -13,7 +13,7 @@ body {
     grid-template-columns: 1fr 4fr;
     grid-template-areas: 
         "primary-nav secondary-nav"
-        "primary-nav content-container"
+        "primary-nav content"
         "primary-nav footer";
 }
 
@@ -64,8 +64,8 @@ body {
     list-style-type: none;
 }
 
-#content-container {
-    grid-area: content-container;
+#content {
+    grid-area: content;
 }
 
 #main-content {
