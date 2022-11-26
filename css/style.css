@@ -23,6 +23,27 @@ body {
     color: white;
 }
 
+
+#primary-nav a, #secondary-nav a {
+    /* remove text decoration from all nav links */
+    text-decoration: none;
+}
+
+#primary-nav a {
+    color:white;
+}
+
+#primary-menu ul li {
+    list-style: none;
+    font-size: 1rem;
+}
+
+#primary-menu ul li img {
+    /* set all icons to the same size as menu text */
+    width: 1rem;
+    height: 1rem;
+}
+
 #logo {
     
 }
