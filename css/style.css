@@ -33,7 +33,13 @@ body {
     color:white;
 }
 
+#primary-menu {
+    padding: 1rem;
+}
+
 #primary-menu ul li {
+    padding-bottom: 0.75rem;
+    
     list-style: none;
     font-size: 1rem;
     font-weight: 600;
@@ -41,6 +47,8 @@ body {
 }
 
 #primary-menu ul li img {
+    margin-right: 0.75rem;
+    
     /* set all icons to the same size as menu text */
     width: 1rem;
     height: 1rem;
@@ -49,12 +57,16 @@ body {
 }
 
 #logo {
+    padding: 1rem;
+
     font-size: 1.25rem;
     font-weight: 600;
     letter-spacing: 0.025em;
 }
 
 #logo-img {
+    margin-right: 1rem;
+    
     width: 1.25rem;
     height: 1.25rem;
     /* convert svg to white  */
