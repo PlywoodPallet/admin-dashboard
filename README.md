@@ -9,6 +9,7 @@ TODO
 - For menu, how to make a large area clickable (text and some padding around it?)
 - accessibility - do link images need alt text if the menu text is nearby?
 - how to center images in primary menu along center line https://stackoverflow.com/questions/66178773/align-icon-to-text-size
+- Make primary nav links change color of svg and text on hover
 
 Project History
 - Researched CSS naming conventions https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/
