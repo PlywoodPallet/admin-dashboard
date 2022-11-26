@@ -5,7 +5,7 @@
 }
 
 body {
-
+    font-family: 'Roboto', sans-serif;
 }
 
 #container {
@@ -36,6 +36,9 @@ body {
 #primary-menu ul li {
     list-style: none;
     font-size: 1rem;
+    font-weight: 600;
+    letter-spacing: 0.025em;
+    
 }
 
 #primary-menu ul li img {
@@ -48,6 +51,8 @@ body {
 
 #logo {
     font-size: 1.5rem;
+    font-weight: 600;
+    letter-spacing: 0.025em;
 }
 
 #logo-img {
