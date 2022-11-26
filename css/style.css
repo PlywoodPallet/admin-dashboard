@@ -31,6 +31,39 @@ body {
     grid-area: secondary-nav;
 }
 
+#secondary-nav__top-bar {
+    
+}
+
+#secondary-nav__top-bar ul {
+    display: grid;
+    /* change units when icons are implemented (make search box bigger) */
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    list-style-type: none;
+}
+
+#secondary-nav__top-bar ul li {
+    list-style-type: none;
+}
+
+#secondary-nav__top-bar__name {
+    
+}
+
+#secondary-nav__bottom-bar {
+    
+}
+
+#secondary-nav__bottom-bar ul {
+    display: grid;
+    /* change units when icons are implemented (make greeting bigger) */
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+#secondary-nav__bottom-bar ul li {
+    list-style-type: none;
+}
+
 #content-container {
     grid-area: content-container;
 }
