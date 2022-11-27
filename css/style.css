@@ -15,6 +15,7 @@ body {
         "primary-nav secondary-nav"
         "primary-nav content"
         "primary-nav footer";
+    gap: 1em;
 }
 
 #primary-nav {
@@ -65,7 +66,7 @@ body {
 }
 
 #logo-img {
-    margin-right: 1rem;
+    margin-right: 0.75rem;
     
     width: 1.25rem;
     height: 1.25rem;
@@ -122,6 +123,7 @@ body {
     grid-template-areas: 
         "your-projects announcements"
         "your-projects trending";
+    gap: 1em;
     
 }
 
