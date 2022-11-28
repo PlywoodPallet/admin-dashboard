@@ -76,9 +76,13 @@ body {
 
 #secondary-nav {
     grid-area: secondary-nav;
+
+    /* additional padding for secondary-nav */
+    padding: 1em;
 }
 
 #secondary-nav__top-bar {
+    padding-bottom: 1em;
     
 }
 
