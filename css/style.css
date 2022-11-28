@@ -142,6 +142,9 @@ body {
     grid-template-areas: 
         "announcements"
         "trending";
+    
+    /* additional padding on right side */
+    padding-right: 1em;
 }
 
 #announcements {
