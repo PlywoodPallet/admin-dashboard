@@ -11,6 +11,7 @@ TODO
 - how to center images in primary menu along center line https://stackoverflow.com/questions/66178773/align-icon-to-text-size
 - Make primary nav links change color of svg and text on hover
 - When to use rem or em? https://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984
+- Dashboard text and logo don't align with menu icons. Does adding it to the primary-nav li fix this?
 
 Project History
 - Researched CSS naming conventions https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/
