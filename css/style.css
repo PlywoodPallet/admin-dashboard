@@ -93,9 +93,9 @@ body {
 }
 
 #secondary-nav__top-bar {
-    display: grid;
+    display: flex;
+    justify-content: space-between;
     /* change units when icons are implemented (make search box bigger) */
-    grid-template-columns: 3fr 1fr;
     list-style-type: none;
 }
 
@@ -104,8 +104,7 @@ body {
 }
 
 #search-bar {
-    display:grid;
-    grid-template-columns: 1.5rem auto;
+    display: flex;
     gap: 1em;
 }
 
@@ -115,9 +114,8 @@ body {
 }
 
 #notification-settings {
-    display: grid;
+    display: flex;
     width: 300px;
-    grid-template-columns: 1.5rem 2.5rem 150px;
     gap: 1em;
 
 }
