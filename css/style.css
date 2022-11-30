@@ -77,10 +77,14 @@ body {
 
 #secondary-nav {
     grid-area: secondary-nav;
-    margin-left: 1em;
+    position: relative;
+    z-index: 1000;
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
     /* additional padding to indent secondary-nav */
     padding: 1em;
+    padding-left: 2em;
 }
 
 #secondary-nav__top-bar {
@@ -157,6 +161,7 @@ body {
         "your-projects trending";
     gap: 1em;
     padding-left: 1em;
+    padding-top: 1em;
 
     background-color: #e2e8f0;
     
