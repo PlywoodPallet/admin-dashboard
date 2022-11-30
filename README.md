@@ -21,3 +21,4 @@ Project History
 - Importing fonts: use link instead of @import. Latter defers loading https://stackoverflow.com/questions/12316501/including-google-fonts-link-or-import
 - gap is the coolest css property, decreases manually messing with padding and margin
 - How to make search bar size dynamic?
+- The more I use CSS, such as flexbox and grid, the more I'm interested in learning responsive design
