@@ -133,7 +133,6 @@ body {
     height: 2.5rem;
 }
 
-
 #secondary-nav__top-bar__name {
     text-align: right;
     font-size: 1.5rem;
@@ -144,16 +143,37 @@ body {
     justify-content: space-between;
 }
 
-.greeting-container {
-    display: flex;
+.profile-pic-large {
+    width: 4rem;
+    height: 4rem;
 }
 
-.app-options {
+.greeting-container {
     display: flex;
+    align-items: center;
+    gap: 1em;
+}
+
+.greeting-text-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 100%;
+}
+
+.greeting-text {
+    font-weight: bold;
+    font-size: 0.75rem;
+}
+
+.greeting-user-name {
+    font-weight: bold;
+    font-size: 1.25rem;
 }
 
 .page-functions {
     display: flex;
+    align-items: center;
 }
 
 #secondary-nav__bottom-bar ul li {
