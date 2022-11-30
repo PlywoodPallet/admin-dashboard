@@ -22,3 +22,4 @@ Project History
 - Importing fonts: use link instead of @import. Latter defers loading https://stackoverflow.com/questions/12316501/including-google-fonts-link-or-import
 - gap is the coolest css property, decreases manually messing with padding and margin
 - The more I use CSS, such as flexbox and grid, the more I'm interested in learning responsive design
+- Learned how to use z-index to allow a border-box shadow to be visible and not covered up https://css-tricks.com/forums/topic/box-shadow-is-getting-covered-up/
