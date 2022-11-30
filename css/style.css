@@ -140,13 +140,20 @@ body {
 }
 
 #secondary-nav__bottom-bar {
-    
+    display: flex;
+    justify-content: space-between;
 }
 
-#secondary-nav__bottom-bar ul {
-    display: grid;
-    /* change units when icons are implemented (make greeting bigger) */
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+.greeting-container {
+    display: flex;
+}
+
+.app-options {
+    display: flex;
+}
+
+.page-functions {
+    display: flex;
 }
 
 #secondary-nav__bottom-bar ul li {
