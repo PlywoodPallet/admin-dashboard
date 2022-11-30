@@ -13,6 +13,7 @@ TODO
 - When to use rem or em? https://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984
 - Dashboard text and logo don't align with menu icons. Does adding it to the primary-nav li fix this?
 - How to make search bar size dynamic?
+- Create a branch for converting secondary-nav from grid to flexbox. I'm having a difficult time getting everything positioned in grid
 
 Project History
 - Researched CSS naming conventions https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/
