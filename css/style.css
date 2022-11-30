@@ -15,7 +15,8 @@ body {
         "primary-nav secondary-nav"
         "primary-nav content"
         "primary-nav footer";
-    gap: 1em;
+    /* Causes an issue because I can't change the color of the gap between secondary-bar and content. I have to choose one or the other
+    gap: 1em; */
 }
 
 #primary-nav {
@@ -76,8 +77,9 @@ body {
 
 #secondary-nav {
     grid-area: secondary-nav;
+    margin-left: 1em;
 
-    /* additional padding for secondary-nav */
+    /* additional padding to indent secondary-nav */
     padding: 1em;
 }
 
@@ -154,6 +156,9 @@ body {
         "your-projects announcements"
         "your-projects trending";
     gap: 1em;
+    padding-left: 1em;
+
+    background-color: #e2e8f0;
     
 }
 
@@ -183,4 +188,5 @@ body {
 
 #footer {
     grid-area: footer;
+    background-color: #e2e8f0;
 }
