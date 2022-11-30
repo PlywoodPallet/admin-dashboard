@@ -20,3 +20,4 @@ Project History
 - SVGs can be filled with different color using CSS https://stackoverflow.com/questions/22252472/how-to-change-the-color-of-an-svg-element
 - Importing fonts: use link instead of @import. Latter defers loading https://stackoverflow.com/questions/12316501/including-google-fonts-link-or-import
 - gap is the coolest css property, decreases manually messing with padding and margin
+- How to make search bar size dynamic?
