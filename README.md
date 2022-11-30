@@ -5,7 +5,7 @@ Requirements
 - Already practiced using flex, Encouraged to use grid as much as possible for practice
 
 TODO
-- how to make the page minimum one viewport height? I'd like to fill the window even if content doesn't expand the page to fit
+- how to make the page minimum one viewport height? I'd like to fill the window even if content is empty
 - For menu, how to make a large area clickable (text and some padding around it?)
 - accessibility - do link images need alt text if the menu text is nearby?
 - how to center images in primary menu along center line https://stackoverflow.com/questions/66178773/align-icon-to-text-size
