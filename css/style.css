@@ -86,15 +86,26 @@ body {
     
 }
 
-#secondary-nav__top-bar ul {
+#secondary-nav__top-bar {
     display: grid;
     /* change units when icons are implemented (make search box bigger) */
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 3fr 1fr;
     list-style-type: none;
 }
 
 #secondary-nav__top-bar ul li {
     list-style-type: none;
+}
+
+#search-bar {
+    display:grid;
+    grid-template-columns: 1fr 4fr;
+}
+
+#notification-settings {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
 }
 
 #secondary-nav__top-bar img {
