@@ -105,6 +105,7 @@ body {
 
 #search-bar {
     display: flex;
+    align-items: center;
     gap: 1em;
 }
 
@@ -115,6 +116,8 @@ body {
 
 #notification-settings {
     display: flex;
+    align-items: center;
+    justify-content:flex-end;
     width: 300px;
     gap: 1em;
 
