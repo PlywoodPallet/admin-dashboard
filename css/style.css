@@ -117,13 +117,20 @@ body {
     height: 1.5rem;
 }
 
-#notification-settings {
+#notification-settings-container {
     display: flex;
     align-items: center;
     justify-content:flex-end;
     width: 300px;
     gap: 1em;
 
+}
+
+.settings-dropdown {
+    display: flex;
+    align-items: center;
+    justify-content:flex-end;
+    gap: 1em;
 }
 
 #secondary-nav-icon {
