@@ -32,3 +32,4 @@ Project History
 - Upper right corner is likely a notifications and settings area. Named it as such.
 - Created dummy links for all possible links
 - Grid "auto" parameter is powerful and should be my default, rather than 1fr
+- Horizontal dividing line and how to style them https://www.w3schools.com/tags/tag_hr.asp
