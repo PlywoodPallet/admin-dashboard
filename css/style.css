@@ -245,7 +245,7 @@ h2 {
 
 .announcements-items {
     background-color: white;
-    padding: 1em;
+    padding: 2em;
     border-radius: 5px;
     
     display: grid;
@@ -282,7 +282,7 @@ h2 {
 
 .trending-items-container {
     background-color: white;
-    padding: 1em;
+    padding: 2em;
     border-radius: 5px;
 
     display: grid;
