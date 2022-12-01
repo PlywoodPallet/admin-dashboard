@@ -238,7 +238,7 @@ h2 {
         "trending";
 }
 
-.announcements {
+.announcements-container {
     grid-area: "announcements";
 }
 
@@ -264,7 +264,7 @@ h2 {
     font-size: 0.8rem;
 }
 
-#trending {
+.trending-container {
     grid-area: "trending";
 }
 
