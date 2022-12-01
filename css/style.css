@@ -214,6 +214,7 @@ body {
     gap: 1em;
     padding-left: 1em;
     padding-top: 1em;
+    padding-right: 1em;
 
     background-color: var(--light-gray);
     
@@ -230,9 +231,6 @@ body {
     grid-template-areas: 
         "announcements"
         "trending";
-    
-    /* additional padding on right side */
-    padding-right: 1em;
 }
 
 #announcements {
