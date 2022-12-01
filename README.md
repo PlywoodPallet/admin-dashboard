@@ -32,3 +32,4 @@ Project History
 - I've been defaulting to ids, but I should be defaulting to class. Class can be used more than once, will be useful just in case a unique element needs to be repeated later
 - Upper right corner is likely a notifications and settings area. Named it as such.
 - Created dummy links for all possible links
+- Grid "auto" parameter is powerful and should be my default, rather than 1fr
