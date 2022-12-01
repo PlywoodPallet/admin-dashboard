@@ -232,7 +232,7 @@ h2 {
 #content-sidebar {
     grid-area: "content-sidebar";
     display: grid;
-    grid-template-rows: 1fr 1fr;
+    grid-template-rows: auto auto;
     grid-template-areas: 
         "announcements"
         "trending";
@@ -240,6 +240,7 @@ h2 {
 
 .announcements-container {
     grid-area: "announcements";
+    padding-bottom: 1em;
 }
 
 .announcements-items {
@@ -248,7 +249,7 @@ h2 {
     border-radius: 5px;
     
     display: grid;
-    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-rows: auto auto auto;
     gap: 1em;
 }
 
