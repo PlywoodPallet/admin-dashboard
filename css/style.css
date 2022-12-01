@@ -233,8 +233,14 @@ body {
         "trending";
 }
 
-#announcements {
+.announcements {
     grid-area: "announcements";
+    
+}
+
+.announcements-items {
+    background-color: white;
+    
 }
 
 #trending {
