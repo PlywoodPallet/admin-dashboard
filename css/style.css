@@ -11,6 +11,11 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+h2 {
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
 #container {
     display: grid;
     grid-template-columns: minmax(160px, 1fr) 6fr;
