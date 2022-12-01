@@ -266,6 +266,19 @@ h2 {
 
 .trending-container {
     grid-area: "trending";
+    padding-bottom: 1em;
+}
+
+.trending-items-container {
+    background-color: white;
+    padding: 1em;
+    border-radius: 5px;
+
+    display: grid;
+    grid-template-rows: auto auto auto auto;
+    gap: 1em;
+
+    font-size: 0.8rem;
 }
 
 #footer {
