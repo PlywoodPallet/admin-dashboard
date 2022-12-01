@@ -18,7 +18,7 @@ h2 {
 
 #container {
     display: grid;
-    grid-template-columns: minmax(160px, 1fr) 6fr;
+    grid-template-columns: minmax(210px, 1fr) 6fr;
     grid-template-areas: 
         "primary-nav secondary-nav"
         "primary-nav content"
