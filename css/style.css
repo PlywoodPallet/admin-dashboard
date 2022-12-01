@@ -16,10 +16,6 @@ h2 {
     padding-bottom: 10px;
 }
 
-h3 {
-    font-size: 1rem;
-}
-
 #container {
     display: grid;
     grid-template-columns: minmax(160px, 1fr) 6fr;
@@ -244,12 +240,28 @@ h3 {
 
 .announcements {
     grid-area: "announcements";
-    
 }
 
 .announcements-items {
     background-color: white;
+    padding: 1em;
+    border-radius: 5px;
     
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 1em;
+}
+
+.announcements-items div {
+    border-bottom: 1px;
+}
+
+.announcements-items h3 {
+    font-size: 0.8rem;
+}
+
+.announcements-items p {
+    font-size: 0.8rem;
 }
 
 #trending {
