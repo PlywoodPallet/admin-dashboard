@@ -66,22 +66,30 @@ h2 {
     filter: invert(100%) sepia(2%) saturate(7466%) hue-rotate(290deg) brightness(100%) contrast(108%);
 }
 
-#logo {
-    padding: 1rem;
-
-    font-size: 1.25rem;
-    font-weight: 600;
-    letter-spacing: 0.025em;
+.logo-container {
+    display: grid;
+    grid-template-columns: 3rem auto;
+    align-items: center;
+    gap: 0.5rem;
 }
 
 #logo-img {
     margin-right: 0.75rem;
     
-    width: 1.25rem;
-    height: 1.25rem;
+    width: 3rem;
+    height: 3rem;
     /* convert svg to white  */
     filter: invert(100%) sepia(2%) saturate(7466%) hue-rotate(290deg) brightness(100%) contrast(108%);
 }
+
+#logo-text {
+    padding: 1rem;
+
+    font-size: 1.5rem;
+    font-weight: 600;
+    letter-spacing: 0.025em;
+}
+
 
 #secondary-nav {
     grid-area: secondary-nav;
