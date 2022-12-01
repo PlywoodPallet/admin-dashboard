@@ -17,7 +17,6 @@ TODO
 - hover effect for primary nav. onclick effect for secondary nav buttons
 - Alignment of items in primary nav and secondary nav is off, would like to align images, buttons, and text to a universal centerline. Align-items: center did move the items, but isn't not perfectly centered
 - Is there some sort of vscode extension that will double check my CSS selectors are named correctly? Lots of frustration due to a typo
-- Announcements seems to be a fixed height, creating weird issues with padding of content inside announcements-items
 
 Project History
 - Researched CSS naming conventions https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/
