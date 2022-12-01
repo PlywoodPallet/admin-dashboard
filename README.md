@@ -19,6 +19,7 @@ TODO
 - Is there some sort of vscode extension that will double check my CSS selectors are named correctly? Lots of frustration due to a typo
 - how do I disable the <a> tag from being recognized by grid. When it sees it wrap two divs, it considers it one grid element instead of two. My current workaround is settings <a class="grid-container"> but isn't good for readability (better that he div above it gets class="grid-container")
 - Make page function buttons bigger
+- Encapsulate page sections in <nav> <header> <main> <footer> tags
 
 Project History
 - Researched CSS naming conventions https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/
