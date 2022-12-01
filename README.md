@@ -15,6 +15,7 @@ TODO
 - How to make search bar size dynamic?
 - Create a branch for converting secondary-nav from grid to flexbox. I'm having a difficult time getting everything positioned in grid
 - hover effect for primary nav. onclick effect for secondary nav buttons
+- Alignment of items in primary nav and secondary nav is off, would like to align images, buttons, and text to a universal centerline. Align-items: center did move the items, but isn't not perfectly centered
 
 Project History
 - Researched CSS naming conventions https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/
@@ -27,3 +28,5 @@ Project History
 - Learned how to use z-index to allow a border-box shadow to be visible and not covered up https://css-tricks.com/forums/topic/box-shadow-is-getting-covered-up/
 - Tried to make secondary nav with grid but it was too difficult, used flexbox instead
 - I've been defaulting to ids, but I should be defaulting to class. Class can be used more than once, will be useful just in case a unique element needs to be repeated later
+- Upper right corner is likely a notifications and settings area. Named it as such.
+- Created dummy links for all possible links
