@@ -5,7 +5,6 @@ Requirements
 - Already practiced using flex (See landing page), Encouraged to use grid as much as possible for practice
 
 TODO
-- how to make the page minimum one viewport height? I'd like to fill the window even if content is empty (height: 100vh works but what if content overflows)
 - For menu, how to make a large area clickable (text and some padding around it?)
 - accessibility - do link images need alt text if the menu text is nearby? (Primary nav)
 - how to center images in primary menu along center line https://stackoverflow.com/questions/66178773/align-icon-to-text-size
@@ -40,3 +39,4 @@ Future Work
 - What are the best practices for creating css selectors? When is a global definition better than a super selective one for the particular section of a page?
 - Is there some sort of vscode extension that will double check my CSS selectors are named correctly? Lots of frustration created due to a typo
 - play with css text overflow property to omit text after a certain amount of lines, to make each card more or less the same size
+- how to make the page minimum one viewport height? I'd like to fill the window even if content is empty (height: 100vh works but what if content overflows)
