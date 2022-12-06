@@ -12,9 +12,16 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+
+/* this h2 and h3 are only used in content div, is it good practice to make the selectors as specific as possible? */
 h2 {
     padding-top: 5px;
     padding-bottom: 10px;
+}
+
+h3 {
+    font-size: 1rem;
+    padding-bottom: 5px;
 }
 
 #container {
@@ -252,6 +259,9 @@ h2 {
 }
 
 .project-card {
+    display: grid;
+    grid-template-rows: auto 1.5rem;
+    
     background-color: white;
     padding: 1em;
 
@@ -262,6 +272,8 @@ h2 {
 
 .card-functions {
     display: flex;
+    justify-content: end;
+    gap: 1em;
 }
 
 .card-functions div img {
