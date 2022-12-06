@@ -22,6 +22,7 @@ TODO
 - Encapsulate page sections in <nav> <header> <main> <footer> tags
 - Would min-height be useful for project cards?
 - Secondary-nav - add padding on right side same as on the left
+- this h2 and h3 are only used in content div, is it good practice to make the selectors as specific as possible? 
 
 Project History
 - Researched CSS naming conventions https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/
