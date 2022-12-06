@@ -327,6 +327,7 @@ h4 {
 
 .announcements-items p {
     font-size: 0.8rem;
+    color: var(--dark-gray)
 }
 
 .announcement-item-divider {
