@@ -39,3 +39,5 @@ Project History
 - Horizontal dividing line and how to style them https://www.w3schools.com/tags/tag_hr.asp
 - The purpose of this exercise was to use grid only, but I broke down and used flex for 1d elements that are tricky to do with grid to save time.
 - Did not realize so many websites use a dark gray or light gray as an alternative to black or white text. It gives a subtle structure of a website (like the content card text and announcements text). The resulting lower contrast is easier on the eyes https://uxdesign.cc/designers-should-avoid-pure-black-typography-but-which-dark-gray-should-we-use-2d7faa07083a
+
+Further Work
