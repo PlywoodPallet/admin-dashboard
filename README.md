@@ -39,3 +39,4 @@ Further Work
 - How to make search bar size dynamic? For some reason the trick I found, width: 100%, doesn't work
 - What are the best practices for creating css selectors? When is a global definition better than a super selective one for the particular section of a page?
 - Is there some sort of vscode extension that will double check my CSS selectors are named correctly? Lots of frustration created due to a typo
+- play with css text overflow property to omit text after a certain amount of lines, to make each card more or less the same size
