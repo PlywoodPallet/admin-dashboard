@@ -282,6 +282,7 @@ h4 {
 
 .card-content p {
     color: var(--dark-gray);
+    text-align: justify;
 }
 
 .card-functions {
@@ -327,7 +328,8 @@ h4 {
 
 .announcements-items p {
     font-size: 0.8rem;
-    color: var(--dark-gray)
+    color: var(--dark-gray);
+    text-align: justify;
 }
 
 .announcement-item-divider {
