@@ -15,6 +15,7 @@ body {
 
 /* this h2 and h3 are only used in content div, is it good practice to make the selectors as specific as possible? */
 h2 {
+    font-size: 1.25rem;
     padding-top: 5px;
     padding-bottom: 10px;
 }
