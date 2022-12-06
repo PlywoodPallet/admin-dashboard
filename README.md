@@ -12,7 +12,6 @@ TODO
 - Make primary nav links change color of svg and text on hover
 - hover effect for primary nav. onclick effect for secondary nav buttons
 - Alignment of items in primary nav and secondary nav is off, would like to align images, buttons, and text to a universal centerline. Align-items: center did move the items, but isn't not perfectly centered
-- Encapsulate page sections in <nav> <header> <main> <footer> tags
 - Would min-height be useful for project cards?
 
 Project History
