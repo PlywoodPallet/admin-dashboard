@@ -26,6 +26,11 @@ h3 {
     padding-bottom: 5px;
 }
 
+h4 {
+    font-size: 0.8rem;
+    padding-bottom: 5px;
+}
+
 #container {
     display: grid;
     grid-template-columns: minmax(210px, 1fr) 6fr;
@@ -318,10 +323,6 @@ h3 {
 
 .announcements-items div {
     border-bottom: 1px;
-}
-
-.announcements-items h3 {
-    font-size: 0.8rem;
 }
 
 .announcements-items p {
