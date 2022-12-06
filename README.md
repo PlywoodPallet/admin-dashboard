@@ -33,7 +33,7 @@ Project History
 - The purpose of this exercise was to use grid only, but I broke down and used flex for 1d elements that are tricky to do with grid to save time.
 - Did not realize so many websites use a dark gray or light gray as an alternative to black or white text. It gives a subtle structure of a website (like the content card text and announcements text). The resulting lower contrast is easier on the eyes https://uxdesign.cc/designers-should-avoid-pure-black-typography-but-which-dark-gray-should-we-use-2d7faa07083a
 
-Further Work
+Future Work
 - how do I disable the <a> tag from being recognized by grid. When it sees it wrap two divs, it considers it one grid element instead of two. My current workaround is settings <a class="grid-container"> but isn't good for readability (better that he div above it gets class="grid-container")
 - When to use rem or em? https://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-
 - How to make search bar size dynamic? For some reason the trick I found, width: 100%, doesn't work
