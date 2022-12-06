@@ -12,7 +12,6 @@ TODO
 - Make primary nav links change color of svg and text on hover
 - hover effect for primary nav. onclick effect for secondary nav buttons
 - Alignment of items in primary nav and secondary nav is off, would like to align images, buttons, and text to a universal centerline. Align-items: center did move the items, but isn't not perfectly centered
-- Would min-height be useful for project cards?
 
 Project History
 - Researched CSS naming conventions https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/
@@ -40,3 +39,4 @@ Future Work
 - Is there some sort of vscode extension that will double check my CSS selectors are named correctly? Lots of frustration created due to a typo
 - play with css text overflow property to omit text after a certain amount of lines, to make each card more or less the same size
 - how to make the page minimum one viewport height? I'd like to fill the window even if content is empty (height: 100vh works but what if content overflows)
+- Would min-height be useful for project cards?
