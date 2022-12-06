@@ -4,15 +4,6 @@ Requirements
 - Replicate design file
 - Already practiced using flex (See landing page), Encouraged to use grid as much as possible for practice
 
-TODO
-- Convert all css IDs to class
-- For menu, how to make a large area clickable (text and some padding around it?)
-- accessibility - do link images need alt text if the menu text is nearby? (Primary nav)
-- how to center images in primary menu along center line https://stackoverflow.com/questions/66178773/align-icon-to-text-size
-- Make primary nav links change color of svg and text on hover
-- hover effect for primary nav. onclick effect for secondary nav buttons
-- Alignment of items in primary nav and secondary nav is off, would like to align images, buttons, and text to a universal centerline. Align-items: center did move the items, but isn't not perfectly centered
-
 Project History
 - Researched CSS naming conventions https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/
 - Researched when to use a id or class. Id is for unique elements, class is for repeat elements
@@ -30,6 +21,15 @@ Project History
 - Horizontal dividing line and how to style them https://www.w3schools.com/tags/tag_hr.asp
 - The purpose of this exercise was to use grid only, but I broke down and used flex for 1d elements that are tricky to do with grid to save time. However, 1D grids are still useful, such as for the primary nav menu. 
 - Did not realize so many websites use a dark gray or light gray as an alternative to black or white text. It gives a subtle structure of a website (like the content card text and announcements text). The resulting lower contrast is easier on the eyes https://uxdesign.cc/designers-should-avoid-pure-black-typography-but-which-dark-gray-should-we-use-2d7faa07083a
+
+TODO
+- Convert all css IDs to class
+- For menu, how to make a large area clickable (text and some padding around it?)
+- accessibility - do link images need alt text if the menu text is nearby? (Primary nav)
+- how to center images in primary menu along center line https://stackoverflow.com/questions/66178773/align-icon-to-text-size
+- Make primary nav links change color of svg and text on hover
+- hover effect for primary nav. onclick effect for secondary nav buttons
+- Alignment of items in primary nav and secondary nav is off, would like to align images, buttons, and text to a universal centerline. Align-items: center did move the items, but isn't not perfectly centered
 
 Future Work
 - how do I disable the <a> tag from being recognized by grid. When it sees it wrap two divs, it considers it one grid element instead of two. My current workaround is settings <a class="grid-container"> but isn't good for readability (better that he div above it gets class="grid-container")
