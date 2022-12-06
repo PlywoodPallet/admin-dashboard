@@ -37,6 +37,6 @@ Project History
 - I've been defaulting to ids, but I should be defaulting to class. Class can be used more than once, will be useful just in case a unique element needs to be repeated later
 - Upper right corner is likely a notifications and settings area. Named it as such.
 - Created dummy links for all possible links
-- Grid "auto" parameter is powerful and should be my default, rather than 1fr
+- Grid "auto" parameter is powerful and should be my default if I'm not sure about proportions, rather than 1fr
 - Horizontal dividing line and how to style them https://www.w3schools.com/tags/tag_hr.asp
 - Did not realize so many websites use a dark gray or light gray as an alternative to black or white text. It gives a subtle structure of a website (like the content card text and announcements text). The resulting lower contrast is easier on the eyes https://uxdesign.cc/designers-should-avoid-pure-black-typography-but-which-dark-gray-should-we-use-2d7faa07083a
