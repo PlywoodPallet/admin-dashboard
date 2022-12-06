@@ -5,6 +5,7 @@ Requirements
 - Already practiced using flex (See landing page), Encouraged to use grid as much as possible for practice
 
 TODO
+- Convert all css IDs to class
 - For menu, how to make a large area clickable (text and some padding around it?)
 - accessibility - do link images need alt text if the menu text is nearby? (Primary nav)
 - how to center images in primary menu along center line https://stackoverflow.com/questions/66178773/align-icon-to-text-size
