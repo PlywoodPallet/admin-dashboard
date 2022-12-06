@@ -17,7 +17,6 @@ TODO
 - Alignment of items in primary nav and secondary nav is off, would like to align images, buttons, and text to a universal centerline. Align-items: center did move the items, but isn't not perfectly centered
 - Is there some sort of vscode extension that will double check my CSS selectors are named correctly? Lots of frustration due to a typo
 - how do I disable the <a> tag from being recognized by grid. When it sees it wrap two divs, it considers it one grid element instead of two. My current workaround is settings <a class="grid-container"> but isn't good for readability (better that he div above it gets class="grid-container")
-- Make page function buttons bigger
 - Encapsulate page sections in <nav> <header> <main> <footer> tags
 - Would min-height be useful for project cards?
 - Secondary-nav - add padding on right side same as on the left
