@@ -13,7 +13,6 @@ TODO
 - When to use rem or em? https://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984
 - Dashboard text and logo don't align with menu icons. Does adding it to the primary-nav li fix this?
 - How to make search bar size dynamic? For some reason width: 100% doesn't work
-- Create a branch for converting secondary-nav from grid to flexbox. I'm having a difficult time getting everything positioned in grid
 - hover effect for primary nav. onclick effect for secondary nav buttons
 - Alignment of items in primary nav and secondary nav is off, would like to align images, buttons, and text to a universal centerline. Align-items: center did move the items, but isn't not perfectly centered
 - Is there some sort of vscode extension that will double check my CSS selectors are named correctly? Lots of frustration due to a typo
