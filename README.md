@@ -1,5 +1,8 @@
 Admin Dashboard
 
+Live Site
+https://plywoodpallet.github.io/admin-dashboard/
+
 Requirements
 - Replicate design file
 - Already practiced using flex (See landing page project), Encouraged to use grid as much as possible for practice
