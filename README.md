@@ -3,6 +3,8 @@ Dashboard-style website using CSS Grid and Flexbox
 
 Live Site: https://plywoodpallet.github.io/admin-dashboard/
 
+![page preview](dashboard-preview.png)
+
 ## Requirements
 - Replicate design file at https://www.theodinproject.com/lessons/intermediate-html-and-css-admin-dashboard
 - Already practiced using flex (See [landing page project](https://github.com/PlywoodPallet/landingpage)), Encouraged to use grid as much as possible for practice
