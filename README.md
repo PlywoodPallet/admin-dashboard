@@ -1,13 +1,13 @@
-Admin Dashboard
+# Admin Dashboard
+Dashboard-style website using CSS Grid and Flexbox
 
-Live Site
-https://plywoodpallet.github.io/admin-dashboard/
+Live Site: https://plywoodpallet.github.io/admin-dashboard/
 
-Requirements
+## Requirements
 - Replicate design file at https://www.theodinproject.com/lessons/intermediate-html-and-css-admin-dashboard
 - Already practiced using flex (See [landing page project](https://github.com/PlywoodPallet/landingpage)), Encouraged to use grid as much as possible for practice
 
-Project History
+## Project History
 - Researched CSS naming conventions https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/
 - Researched when to use a id or class. Id is for unique elements, class is for repeat elements
 - For some reason one grid was not enough to make the your-projects, announcements, trending layout. I had to make two. Wondering if there is a grid setting I'm missing
@@ -25,7 +25,7 @@ Project History
 - The purpose of this exercise was to use grid only, but I broke down and used flex for 1d elements that are tricky to do with grid to save time. However, 1D grids are still useful, such as for the primary nav menu. 
 - Did not realize so many websites use a dark gray or light gray as an alternative to black or white text. It gives a subtle structure of a website (like the content card text and announcements text). The resulting lower contrast is easier on the eyes https://uxdesign.cc/designers-should-avoid-pure-black-typography-but-which-dark-gray-should-we-use-2d7faa07083a
 
-TODO
+## TODO
 - Convert all css IDs to class
 - For menu, how to make a large area clickable (text and some padding around it?)
 - accessibility - do link images need alt text if the menu text is nearby? (Primary nav)
@@ -34,7 +34,7 @@ TODO
 - hover effect for primary nav. onclick effect for secondary nav buttons
 - Alignment of items in primary nav and secondary nav is off, would like to align images, buttons, and text to a universal centerline. Align-items: center did move the items, but isn't not perfectly centered
 
-Future Work
+## Future Work
 - how do I disable the <a> tag from being recognized by grid. When it sees it wrap two divs, it considers it one grid element instead of two. My current workaround is settings <a class="grid-container"> but isn't good for readability (better that he div above it gets class="grid-container")
 - When to use rem or em? https://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-
 - How to make search bar size dynamic? For some reason the trick I found, width: 100%, doesn't work
