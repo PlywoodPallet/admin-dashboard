@@ -5,7 +5,7 @@ https://plywoodpallet.github.io/admin-dashboard/
 
 Requirements
 - Replicate design file at https://www.theodinproject.com/lessons/intermediate-html-and-css-admin-dashboard
-- Already practiced using flex (See landing page project), Encouraged to use grid as much as possible for practice
+- Already practiced using flex (See [landing page project](https://github.com/PlywoodPallet/landingpage)), Encouraged to use grid as much as possible for practice
 
 Project History
 - Researched CSS naming conventions https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/
